@@ -14,8 +14,6 @@
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 </div>
 
-#### Estudante da área de tecnologia  da informação. Atualmente curso faculdade de Análise e Desenvolvimento de Sistemas e estudo Desenvolvimento Web através de cursos online.
-
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoc-dev&hide_progress=true)
 
+#### Estudante da área de tecnologia  da informação. Atualmente curso faculdade de Análise e Desenvolvimento de Sistemas e estudo Desenvolvimento Web através de cursos online.
