@@ -17,5 +17,5 @@
 #### Estudante da área de tecnologia  da informação. Atualmente curso faculdade de Análise e Desenvolvimento de Sistemas e estudo Desenvolvimento Web através de cursos online.
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoc-dev&layout=pie)](https://github.com/gustavoc-dev/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoc-dev&hide_progress=true)
 
