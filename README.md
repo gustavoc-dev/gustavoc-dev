@@ -12,6 +12,7 @@
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gustavoc-dev&layout=compact&theme=radical)
 
 
+
 ---
 
 ## 🚀 Tecnologias que eu uso no meu dia a dia
