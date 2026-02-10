@@ -4,17 +4,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)
 
 ---
-
-## 📊 Estatísticas do GitHub
-
-![Gustavo's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gustavoc-dev&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gustavoc-dev&layout=compact&theme=radical)
-
-
-
----
-
 ## 🚀 Tecnologias que eu uso no meu dia a dia
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
