@@ -7,9 +7,10 @@
 
 ## 📊 Estatísticas do GitHub
 
-[![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavocdev&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=gustavoc-dev&show_icons=true&theme=radical)
+![Gustavo's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gustavoc-dev&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavocdev&layout=compact&theme=radical)](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoc-dev&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gustavoc-dev&layout=compact&theme=radical)
+
 
 ---
 
